@@ -1,4 +1,4 @@
 /.quarto/
 /.ipynb_checkpoints/
 
-!.github/workflows
+!.github/workflows/_publish.yaml
