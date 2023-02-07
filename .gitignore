@@ -4,3 +4,4 @@
 /_book/
 
 !.github/workflows/_publish.yaml
+.DS_Store
